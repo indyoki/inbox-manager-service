@@ -18,5 +18,7 @@ Open project inbox-manager-service\EmailApi\EmailApi.sln
 Run Project through Visual Studio/Terminal
 It is configured to run on https://localhost:5000/
 
+For Testing ==>
 Postman 
-There is an Inbox collection created to assist with testing of the Api endponts.
+There is an Inbox collection created to assist with testing of the Api endponts.Find link below
+https://www.getpostman.com/collections/df022e7abf9c07c6b18d
